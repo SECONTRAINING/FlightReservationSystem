@@ -1,0 +1,17 @@
+D:\MVC Sample Flight\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+D:\MVC Sample Flight\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+D:\MVC Sample Flight\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\MVC Sample Flight\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\MVC Sample Flight\DataAccessLayer\bin\Debug\net6.0\DataModelLayer.dll
+D:\MVC Sample Flight\DataAccessLayer\bin\Debug\net6.0\DataModelLayer.pdb
+D:\MVC Sample Flight\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\MVC Sample Flight\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC Sample Flight\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\MVC Sample Flight\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\MVC Sample Flight\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\MVC Sample Flight\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+D:\MVC Sample Flight\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+D:\MVC Sample Flight\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+D:\MVC Sample Flight\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+D:\MVC Sample Flight\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+D:\MVC Sample Flight\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
