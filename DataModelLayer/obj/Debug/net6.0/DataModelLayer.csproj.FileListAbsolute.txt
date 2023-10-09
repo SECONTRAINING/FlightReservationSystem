@@ -1,0 +1,14 @@
+D:\MVC Sample Flight\DataModelLayer\bin\Debug\net6.0\DataModelLayer.deps.json
+D:\MVC Sample Flight\DataModelLayer\bin\Debug\net6.0\DataModelLayer.runtimeconfig.json
+D:\MVC Sample Flight\DataModelLayer\bin\Debug\net6.0\DataModelLayer.dll
+D:\MVC Sample Flight\DataModelLayer\bin\Debug\net6.0\DataModelLayer.pdb
+D:\MVC Sample Flight\DataModelLayer\obj\Debug\net6.0\DataModelLayer.csproj.AssemblyReference.cache
+D:\MVC Sample Flight\DataModelLayer\obj\Debug\net6.0\DataModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC Sample Flight\DataModelLayer\obj\Debug\net6.0\DataModelLayer.AssemblyInfoInputs.cache
+D:\MVC Sample Flight\DataModelLayer\obj\Debug\net6.0\DataModelLayer.AssemblyInfo.cs
+D:\MVC Sample Flight\DataModelLayer\obj\Debug\net6.0\DataModelLayer.csproj.CoreCompileInputs.cache
+D:\MVC Sample Flight\DataModelLayer\obj\Debug\net6.0\DataModelLayer.dll
+D:\MVC Sample Flight\DataModelLayer\obj\Debug\net6.0\refint\DataModelLayer.dll
+D:\MVC Sample Flight\DataModelLayer\obj\Debug\net6.0\DataModelLayer.pdb
+D:\MVC Sample Flight\DataModelLayer\obj\Debug\net6.0\DataModelLayer.genruntimeconfig.cache
+D:\MVC Sample Flight\DataModelLayer\obj\Debug\net6.0\ref\DataModelLayer.dll
